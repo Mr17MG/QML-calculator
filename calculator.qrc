@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalculatorButton.qml</file>
+        <file>images/moon.svg</file>
+        <file>images/sun.svg</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>History.qml</file>
+        <file>Keypad.qml</file>
+        <file>images/calculator.svg</file>
+        <file>images/history.svg</file>
+        <file>Display.qml</file>
+    </qresource>
+</RCC>
